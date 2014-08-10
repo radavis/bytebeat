@@ -36,3 +36,13 @@ Experiment!
 * [(youtube) Experimental music from very short C programs](https://www.youtube.com/watch?v=GtQdIYUtAHg)
 * [(youtube) Experimental one-line algorithmic music (2nd iteration)](https://www.youtube.com/watch?v=qlrs2Vorw2Y)
 * [(youtube) Music from very short programs (3rd iteration)](https://www.youtube.com/watch?v=tCRPUv8V22o)
+* [Javascript Bytebeat Generator](http://wurstcaptures.untergrund.net/music/)
+* [IBNIZ](https://github.com/viznut/IBNIZ/tree/master/src)
+* [/r/bytebeat on reddit](http://www.reddit.com/r/bytebeat/)
+* [Bytebeat on canonical.org](http://web.archive.org/web/20140209022048/http://canonical.org/~kragen/bytebeat/)
+* [viznut-music on github](https://github.com/kragen/viznut-music)
+* [Hacker News Discussion](https://news.ycombinator.com/item?id=3063359)
+
+## Notes
+
+Most of these programs are from [@viznut's](http://www.twitter.com/viznut) videos. All credit goes to him and the original authors.
