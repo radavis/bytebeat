@@ -42,6 +42,7 @@ Experiment!
 * [Bytebeat on canonical.org](http://web.archive.org/web/20140209022048/http://canonical.org/~kragen/bytebeat/)
 * [viznut-music on github](https://github.com/kragen/viznut-music)
 * [Hacker News Discussion](https://news.ycombinator.com/item?id=3063359)
+* [Collection of Interesting Bytebeat Formulae](http://pelulamu.net/countercomplex/music_formula_collection.txt)
 
 ## Notes
 
