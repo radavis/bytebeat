@@ -23,7 +23,7 @@ First, `brew install sox` in order to have a way to pipe data to the sound syste
 
 Next, compile one of the .c files: `gcc -o 42_melody 42_melody.c`.
 
-Pipe the output of the program to sox: `./42_melody | sox -traw -r8000 -b8 -e unsigned-integer - -tcoreaudio`. Or, use the handy bash script: `./play 42_melody`.
+Pipe the output of the program to sox: `./42_melody | sox -traw -r8000 -b8 -e unsigned-integer - -tcoreaudio`. Or, use the handy bash script: `./play squares`.
 
 `CTRL+C` to stop the music.
 
